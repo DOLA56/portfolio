@@ -26,7 +26,16 @@ const projects = [
     description: 'Tests de failles XSS, SQLi, CSRF sur plateformes d’entraînement',
     image: '/dvwa.png',
     viewLink: 'https://www.edgenexus.io/fr/dvwa/',
-  },
+    },
+    {
+        id: 4,
+        title: 'Assistant IA intégré',
+        description:
+            'Chatbot intelligent intégré au portfolio avec l’API OpenAI. Système anti-spam, limitation des messages, sécurisation de la clé API et interface Next.js 15.',
+        image: '/aiassistant.png', 
+        githubLink: 'https://github.com/DOLA56/portfolio', 
+        viewLink: 'https://portfolio-pearl-psi-29.vercel.app/', 
+    },
 ];
 
 export default function ProjectsSection() {
