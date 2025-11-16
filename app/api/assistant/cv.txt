@@ -1,0 +1,69 @@
+LUKA DOLIDZE
+Technicien Systèmes, Réseaux & Cybersécurité – 19 ans
+
+OBJECTIF PROFESSIONNEL
+Jeune technicien en cybersécurité, réseaux et administration systèmes, motivé et rigoureux. Titulaire d’un Bac Pro SN et d’un BTS CIEL (2023–2025), je souhaite intégrer une entreprise innovante pour contribuer à la sécurité et au bon fonctionnement des infrastructures informatiques.
+
+EXPÉRIENCE PROFESSIONNELLE
+• Stage – Mairie de Foix (Service Informatique) – Bac Pro SN – 6 semaines
+  – Réparation de PC et téléphones
+  – Travail sur des cartes électroniques (YouMap, couches)
+  – Rédaction de rapports techniques
+
+• Stage – Mairie de Foix (Service Informatique) – Terminale – 8 semaines
+  – Maintenance dans les écoles
+  – Migration Windows
+  – Assistance utilisateurs
+
+• Stage – BTS CIEL (1ère année) – 6 semaines
+  – Migration de postes
+  – Travail sur base de données collaborateurs
+  – Dépannage réseau et PC
+  – Configuration périphériques
+
+COMPÉTENCES
+Cybersécurité :
+- DVWA, CTF, Root-Me, HackTheBox
+- Tests de vulnérabilité (XSS, SQLi, CSRF…)
+
+Réseaux :
+- Cisco (VLAN, routage, ACL, DHCP)
+- TCP/IP, sécurité réseau
+- Packet Tracer, GNS3
+
+Systèmes :
+- Administration Windows et Linux
+- Installation, maintenance, dépannage
+
+Développement :
+- C++, Python, SQL
+- HTML/CSS/JS
+- Création d’API (ASP.NET)
+- IoT : ESP32, BME280, BLE
+
+Outils & Virtualisation :
+- VMware, VirtualBox
+- Wireshark
+
+FORMATION
+• Bac Professionnel Systèmes Numériques – Option C (2020–2023)
+  Lycée Renée Bonnet
+
+• BTS CIEL (Cybersécurité, Informatique, Réseaux, Électronique) – 2023–2025
+  Lycée Pierre-Paul Riquet
+
+LANGUES
+- Français (courant)
+- Anglais (fluide)
+- Géorgien (langue maternelle)
+- Russe (B1)
+
+CENTRES D'INTÉRÊT
+- Cybersécurité
+- Musculation
+- Jeux vidéo et nouvelles technologies
+
+CONTACT
+Email : lukadolidze1233@gmail.com
+Téléphone : 07 68 77 58 14
+Portfolio : https://portfolio-pearl-psi-29.vercel.app/
