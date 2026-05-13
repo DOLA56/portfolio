@@ -16,9 +16,11 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Site restaurant',
-    description: 'Site responsive en HTML/CSS/JS avec système de réservation',
+    title: 'Site Atelier Lou Pastou',
+    description:
+  "Site vitrine pour un atelier de peinture à Foix — galerie d'œuvres, services, tarifs et formulaire de contact. HTML/CSS/JS, design responsive.",
     image: '/siterestaurant.png',
+    viewLink: "https://atelierloupastou.netlify.app/",
   },
   {
     id: 3,
@@ -33,7 +35,6 @@ const projects = [
         description:
             'Chatbot intelligent intégré au portfolio avec l’API OpenAI. Système anti-spam, limitation des messages, sécurisation de la clé API et interface Next.js 15.',
         image: '/aiassistant.png', 
-        githubLink: 'https://github.com/DOLA56/portfolio', 
         viewLink: 'https://portfolio-pearl-psi-29.vercel.app/', 
     },
 ];

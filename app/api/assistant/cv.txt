@@ -1,69 +1,82 @@
 LUKA DOLIDZE
-Technicien Systèmes, Réseaux & Cybersécurité – 19 ans
+Technicien Systemes & Reseaux / Cybersecurite
 
-OBJECTIF PROFESSIONNEL
-Jeune technicien en cybersécurité, réseaux et administration systèmes, motivé et rigoureux. Titulaire d’un Bac Pro SN et d’un BTS CIEL (2023–2025), je souhaite intégrer une entreprise innovante pour contribuer à la sécurité et au bon fonctionnement des infrastructures informatiques.
+---
 
-EXPÉRIENCE PROFESSIONNELLE
-• Stage – Mairie de Foix (Service Informatique) – Bac Pro SN – 6 semaines
-  – Réparation de PC et téléphones
-  – Travail sur des cartes électroniques (YouMap, couches)
-  – Rédaction de rapports techniques
+INFORMATIONS PERSONNELLES
 
-• Stage – Mairie de Foix (Service Informatique) – Terminale – 8 semaines
-  – Maintenance dans les écoles
-  – Migration Windows
-  – Assistance utilisateurs
+Portfolio  : https://portfolio-pearl-psi-29.vercel.app/
+Email      : lukadolidze1233@gmail.com
+Telephone  : 07 68 77 58 14
+Age        : 20 ans
 
-• Stage – BTS CIEL (1ère année) – 6 semaines
-  – Migration de postes
-  – Travail sur base de données collaborateurs
-  – Dépannage réseau et PC
-  – Configuration périphériques
+---
 
-COMPÉTENCES
-Cybersécurité :
-- DVWA, CTF, Root-Me, HackTheBox
-- Tests de vulnérabilité (XSS, SQLi, CSRF…)
+PROFIL & OBJECTIF PROFESSIONNEL
 
-Réseaux :
-- Cisco (VLAN, routage, ACL, DHCP)
-- TCP/IP, sécurité réseau
-- Packet Tracer, GNS3
+Jeune technicien en cybersecurite et reseaux, motive, rigoureux et passionne
+d'informatique. Titulaire d'un Bac Pro SN et BTS CIEL, j'ai developpe des
+competences solides en administration systemes, reseaux et securite.
+Mon objectif est de mettre ces competences au service d'une entreprise
+innovante afin de contribuer a la protection et au bon fonctionnement de
+ses infrastructures informatiques.
 
-Systèmes :
-- Administration Windows et Linux
-- Installation, maintenance, dépannage
+---
 
-Développement :
-- C++, Python, SQL
-- HTML/CSS/JS
-- Création d’API (ASP.NET)
-- IoT : ESP32, BME280, BLE
+DIPLOMES
 
-Outils & Virtualisation :
-- VMware, VirtualBox
-- Wireshark
+BTS CIEL Cybersecurite, Informatique et reseaux, Electronique
+  - Lycee Pierre-Paul Riquet (2023-2025)
 
-FORMATION
-• Bac Professionnel Systèmes Numériques – Option C (2020–2023)
-  Lycée Renée Bonnet
+Baccalaureat Professionnel en Systeme Numerique - Option C
+  - Lycee Renee Bonnet (2020-2023)
 
-• BTS CIEL (Cybersécurité, Informatique, Réseaux, Électronique) – 2023–2025
-  Lycée Pierre-Paul Riquet
+---
+
+EXPERIENCE PROFESSIONNELLE
+
+Mairie de Foix - Service Informatique | Foix (09)
+
+Stage 1 - Premiere Bac Pro SN | Duree : 6 semaines
+  - Reparation de PC et de telephones
+  - Travail sur des cartes (YouMap, couches)
+  - Redaction de rapports techniques
+
+Stage 2 - Terminale Bac Pro SN | Duree : 8 semaines
+  - Maintenance et depannage de postes dans les ecoles
+  - Migration Windows et assistance aux utilisateurs
+
+Stage 3 - BTS CIEL (Premiere annee) | Duree : 6 semaines
+  - Migration de postes informatiques
+  - Travail sur la base de donnees des collaborateurs
+  - Configuration et depannage de PC et peripheriques reseau
+
+---
+
+COMPETENCES
+
+Cybersecurite : DVWA, CTF, root-me, hackthebox, tests de vulnerabilite
+Reseaux       : PowerShell, Bash, Packet Tracer, GNS3, configuration Cisco
+                (VLAN, routage, ACL, DHCP), TCP/IP, securite reseau, Shell scripting
+Systemes      : Administration Windows & Linux, notions sur le fonctionnement
+                interne des systemes (kernel, processus, memoire),
+                installation et maintenance
+Developpement : C++, Python, SQL, HTML/CSS/JS, creation d'API (ASP.NET)
+Outils        : VMware, VirtualBox, Wireshark
+
+---
 
 LANGUES
-- Français (courant)
-- Anglais (fluide)
-- Géorgien (langue maternelle)
-- Russe (B1)
 
-CENTRES D'INTÉRÊT
-- Cybersécurité
-- Musculation
-- Jeux vidéo et nouvelles technologies
+Francais  : courant
+Anglais   : fluide
+Georgien  : langue maternelle
+Russe     : B1
 
-CONTACT
-Email : lukadolidze1233@gmail.com
-Téléphone : 07 68 77 58 14
-Portfolio : https://portfolio-pearl-psi-29.vercel.app/
+---
+
+CENTRES D'INTERET
+
+Cybersecurite
+Musculation et sport en salle
+Jeux video et nouvelles technologies
